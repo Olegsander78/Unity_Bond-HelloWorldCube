@@ -1,2 +1,2 @@
-# Unity_Gibson
-Учебные проекты по книге Unity &amp; C# GameDev Гибсона
+# Unity_Bond
+Учебные проекты по книге Unity &amp; C# GameDev Бонда
